@@ -1,7 +1,0 @@
-{
-    "displayName" : "order-service-cf",
-    "favicon" : "https://www.cloudfoundry.org/wp-content/uploads/2017/10/icon-concourse@2x.png",
-    "configUrl" : "https://concourse-web.cf.dev.dynatracelabs.com/teams/main/pipelines/order-service",
-    "tags" : ["order-service", "Concourse"],
-    "properties" : {"Pipeline" : "order-service"}
-}
